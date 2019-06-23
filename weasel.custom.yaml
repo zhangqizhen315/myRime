@@ -1,0 +1,18 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.2
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Jun 23 08:53:34 2019"
+  rime_version: 1.5.1
+patch:
+  "style/color_scheme": wii
+  "style/font_face": "幼圆"
+  "style/font_point": 20
+  "style/horizontal": false
+  "style/inline_preedit": true
+  "style/inline_spacing": 0.5
+  "style/inline_tray_icon": true
+  "style/corner_radius": 30
+  #style:
+  #  corner_radius: 10                            # 候选条圆角半径
+  #  border_width: 12                            # 窗口边界宽度，大于圆角半径才生效
